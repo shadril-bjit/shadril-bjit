@@ -52,11 +52,12 @@ I'm currently learning JavaEE, React, AWS, Software Engineering to improve my de
 - Coursera - Neural Networks and Deep Learning
 
 ## 🏆 Achievements
-- ITEE Fundamental IT Engineer (FE) Exam (29 April, 2023)  
-- Academic Scholarship (60%) for outstanding academic excellence
+- Half Passer at ITEE Fundamental IT Engineer (FE) afternoon exam (29 April, 2023) 
+- Awarded Academic Scholarship (60%) for outstanding academic excellence
+- Recipient of the Dean’s Honorable Mention Award from the AIUB for six times
 
 ## 💻 Coding Contest Participation Record
-- Highest Rating : 1403 @ Codeforces
+- Highest Rating : 1403 @ Codeforces (shadril238)
 - Ranked in Code Samurai 2022 final round
 
 ## 📈 GitHub Stats
