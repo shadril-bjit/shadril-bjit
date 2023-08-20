@@ -1,4 +1,4 @@
-<img alt="Profile Banner" src="https://github.com/shadril-bjit/shadril-bjit/assets/141900680/f237526c-ae14-46a6-abe6-c8142fdeef6a" style="max-width: 100;" >
+<img alt="Profile Banner" src="https://github.com/shadril-bjit/shadril-bjit/assets/141900680/a9b0b905-d225-48d9-80fa-d1c49402ee72" style="max-width: 100;" >
 
 <h1>Hi there, I'm Shadril Hassan Shifat👋</h1>
 <h3 align="left">Trainee Software Engineer - J2EE @ BJIT Academy</h3>
